@@ -1,0 +1,22 @@
+{
+  "name": "photon_bno055",
+  "version": "1.0.0",
+  "description": "Connecting the BNO055 to the photon and reading values through using a modified version of the Adafruit BNO055 library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghirlekar/photon_BNO055.git"
+  },
+  "author": "ghirlekar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghirlekar/photon_BNO055/issues"
+  },
+  "homepage": "https://github.com/ghirlekar/photon_BNO055#readme",
+  "dependencies": {
+    "serialport": "^2.0.1"
+  }
+}
